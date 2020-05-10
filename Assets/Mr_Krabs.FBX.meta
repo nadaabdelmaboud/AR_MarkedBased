@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: f6f2e7c3e4218854fab00b9abd487eb9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder002
+    100002: Left_arm
+    100004: Left_claw
+    100006: Left_foot
+    100008: Left_hand
+    100010: Left_leg
+    100012: Left_shoulder
+    100014: //RootNode
+    100016: Object002
+    100018: Right_arm
+    100020: Right_claw
+    100022: Right_foot
+    100024: Right_hand
+    100026: Right_leg
+    100028: Right_shoulder
+    400000: Cylinder002
+    400002: Left_arm
+    400004: Left_claw
+    400006: Left_foot
+    400008: Left_hand
+    400010: Left_leg
+    400012: Left_shoulder
+    400014: //RootNode
+    400016: Object002
+    400018: Right_arm
+    400020: Right_claw
+    400022: Right_foot
+    400024: Right_hand
+    400026: Right_leg
+    400028: Right_shoulder
+    2100000: 02 - Default
+    2100002: 01 - Default
+    2100004: 15 - Default
+    2100006: 19 - Default
+    2100008: 03 - Default
+    2100010: 20 - Default
+    2100012: 07 - Default
+    2100014: 21 - Default
+    2100016: 13 - Default
+    2100018: 09 - Default
+    2100020: 08 - Default
+    2300000: Cylinder002
+    2300002: Left_arm
+    2300004: Left_claw
+    2300006: Left_foot
+    2300008: Left_hand
+    2300010: Left_leg
+    2300012: Left_shoulder
+    2300014: //RootNode
+    2300016: Object002
+    2300018: Right_arm
+    2300020: Right_claw
+    2300022: Right_foot
+    2300024: Right_hand
+    2300026: Right_leg
+    2300028: Right_shoulder
+    3300000: Cylinder002
+    3300002: Left_arm
+    3300004: Left_claw
+    3300006: Left_foot
+    3300008: Left_hand
+    3300010: Left_leg
+    3300012: Left_shoulder
+    3300014: //RootNode
+    3300016: Object002
+    3300018: Right_arm
+    3300020: Right_claw
+    3300022: Right_foot
+    3300024: Right_hand
+    3300026: Right_leg
+    3300028: Right_shoulder
+    4300000: Body
+    4300002: Cylinder002
+    4300004: Right_leg
+    4300006: Right_foot
+    4300008: Left_leg
+    4300010: Left_foot
+    4300012: Right_shoulder
+    4300014: Right_arm
+    4300016: Right_hand
+    4300018: Right_claw
+    4300020: Left_shoulder
+    4300022: Left_arm
+    4300024: Left_hand
+    4300026: Left_claw
+    4300028: Object002
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 16d732bee7c694747bf48b2bb4660317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 221dbce1b20d43040923589261df4731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 3527494ae19a8a144b291040527b5d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: bd79a17dc9355664689f4af1c0e0cd16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: f9af4a6d31aaa1845897bfe22b962165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 4912f002b3a852f4eb2213f09b61a8d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: 15e99cede84a1cb499a76a75bf00a45d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 2f61b1f6c24d7d84f81f35f100d91c1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: 0c835c5614a73b148a464f1ecd527962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: c40f2b0b20396d649928c74cd105f6d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 02fa9583e75b65b4a839adad7b7a8de2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
